@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8aa616ed-ebcd-436a-abba-cdc95e459278" name="pref.mobi" url="http://pref.mobi">
+        <fileTransfer host="pref.mobi" port="21" rootFolder="/public_html/pref.mobi">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

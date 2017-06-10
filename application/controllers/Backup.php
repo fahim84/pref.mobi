@@ -65,12 +65,12 @@ class Backup extends CI_Controller {
 		$backukp_files_and_directories[] = 'system/';
 		$backukp_files_and_directories[] = 'uploads/';
 		$backukp_files_and_directories[] = '.htaccess';
-		$backukp_files_and_directories[] = 'composer.json';
+		//$backukp_files_and_directories[] = 'composer.json';
 		$backukp_files_and_directories[] = 'crons.php';
 		$backukp_files_and_directories[] = 'error.log';
 		$backukp_files_and_directories[] = 'index.php';
 		$backukp_files_and_directories[] = 'movie.mp4';
-		$backukp_files_and_directories[] = 'php.ini';
+		//$backukp_files_and_directories[] = 'php.ini';
 		$backukp_files_and_directories[] = 'phpinfo.php';
 		$backukp_files_and_directories[] = 'site_backup.sql';
 		$backukp_files_and_directories[] = 'thumb.php';
