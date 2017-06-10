@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="pref.mobi">
+  <component name="PublishConfigData" serverName="pref.mobi" uploadOnCheckin="8aa616ed-ebcd-436a-abba-cdc95e459278">
     <serverData>
       <paths name="pref.mobi">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="pref.mobi" />
   </component>
 </project>
